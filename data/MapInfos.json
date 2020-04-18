@@ -13,9 +13,9 @@ null,
 {"id":11,"expanded":false,"name":"Floor 6","order":11,"parentId":9,"scrollX":2528,"scrollY":640},
 {"id":12,"expanded":false,"name":"Floor 7","order":12,"parentId":9,"scrollX":2278,"scrollY":704},
 {"id":13,"expanded":false,"name":"Break Room 3","order":13,"parentId":9,"scrollX":832,"scrollY":640},
-{"id":14,"expanded":true,"name":"Ice Domain","order":14,"parentId":0,"scrollX":3238.6666666666665,"scrollY":604},
-{"id":15,"expanded":false,"name":"Floor 8","order":15,"parentId":14,"scrollX":4368,"scrollY":2458.6666666666665},
-{"id":16,"expanded":false,"name":"Floor 9","order":16,"parentId":14,"scrollX":2433,"scrollY":2823},
-{"id":17,"expanded":false,"name":"Floor 10","order":17,"parentId":14,"scrollX":2433,"scrollY":2223},
-{"id":18,"expanded":false,"name":"Final Room","order":18,"parentId":14,"scrollX":1081.3333333333333,"scrollY":774.6666666666666}
+{"id":14,"expanded":true,"name":"Ice Domain","order":14,"parentId":0,"scrollX":3488,"scrollY":640},
+{"id":15,"expanded":false,"name":"Floor 8","order":15,"parentId":14,"scrollX":3238.6666666666665,"scrollY":640},
+{"id":16,"expanded":false,"name":"Floor 9","order":16,"parentId":14,"scrollX":3488,"scrollY":640},
+{"id":17,"expanded":false,"name":"Floor 10","order":17,"parentId":14,"scrollX":3488,"scrollY":640},
+{"id":18,"expanded":false,"name":"Final Room","order":18,"parentId":14,"scrollX":816,"scrollY":800}
 ]
