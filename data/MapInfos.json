@@ -17,5 +17,5 @@ null,
 {"id":15,"expanded":false,"name":"Floor 8","order":15,"parentId":14,"scrollX":3238.6666666666665,"scrollY":640},
 {"id":16,"expanded":false,"name":"Floor 9","order":16,"parentId":14,"scrollX":3488,"scrollY":640},
 {"id":17,"expanded":false,"name":"Floor 10","order":17,"parentId":14,"scrollX":3488,"scrollY":640},
-{"id":18,"expanded":false,"name":"Final Room","order":18,"parentId":14,"scrollX":816,"scrollY":800}
+{"id":18,"expanded":false,"name":"Final Room","order":18,"parentId":14,"scrollX":1081.3333333333333,"scrollY":800}
 ]
