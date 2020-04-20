@@ -2,11 +2,11 @@
 null,
 {"id":1,"expanded":false,"name":"Floor 1","order":3,"parentId":3,"scrollX":1318.6666666666667,"scrollY":1782.6666666666667},
 {"id":2,"expanded":false,"name":"Floor 2","order":4,"parentId":3,"scrollX":2278.6666666666665,"scrollY":1382.6666666666667},
-{"id":3,"expanded":true,"name":"Lava Domain","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":825.3333333333334},
+{"id":3,"expanded":true,"name":"Lava Domain","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":886.8},
 {"id":4,"expanded":false,"name":"Break Room 1","order":5,"parentId":3,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":5,"expanded":true,"name":"Rock Domain","order":6,"parentId":0,"scrollX":1318.6666666666667,"scrollY":1382.6666666666667},
-{"id":6,"expanded":false,"name":"Floor 3","order":7,"parentId":5,"scrollX":2433.3333333333335,"scrollY":1137.3333333333333},
-{"id":7,"expanded":true,"name":"Floor 4","order":8,"parentId":5,"scrollX":1318.8,"scrollY":1137.6},
+{"id":6,"expanded":false,"name":"Floor 3","order":7,"parentId":5,"scrollX":973.1999999999999,"scrollY":1617.6},
+{"id":7,"expanded":true,"name":"Floor 4","order":8,"parentId":5,"scrollX":973.1999999999999,"scrollY":1328.3999999999999},
 {"id":8,"expanded":false,"name":"Break Room 2","order":9,"parentId":5,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":9,"expanded":true,"name":"Water Domain","order":10,"parentId":0,"scrollX":2278.6666666666665,"scrollY":1742.6666666666667},
 {"id":10,"expanded":false,"name":"Floor 5","order":11,"parentId":9,"scrollX":2278.6666666666665,"scrollY":604},
@@ -18,5 +18,5 @@ null,
 null,
 null,
 null,
-{"id":19,"expanded":false,"name":"Start Screen","order":1,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666}
+{"id":19,"expanded":false,"name":"Start Screen","order":1,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
 ]
